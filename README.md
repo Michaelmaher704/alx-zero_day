@@ -1,1 +1,1 @@
-My first readme
+get a high score
